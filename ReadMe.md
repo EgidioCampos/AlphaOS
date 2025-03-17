@@ -50,7 +50,7 @@ Graças aos excelentes recursos do Arch Linux, AlphaOS é um sistema leve que ro
 
 ## <font color=#2f81f7>Instalação</font>
 
-Pronto para instalar AlphaOS? Nosso [**Guia de Instalação**](https://catos.info/en/docs/installation/installation00) ajudá-lo-á nessa tarefa.
+Pronto para instalar AlphaOS? Nosso [**Guia de Instalação**](https://catos.info/en/docs/installation/installation00) irá ajudá-lo nessa tarefa.
 
 
 ## <font color=#2f81f7>Feedback</font>
