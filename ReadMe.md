@@ -8,9 +8,7 @@
 
 ## <font color=#2f81f7>Generalidades</font>
 
-AlphaOS é uma distribuição Linux especial de base Arch Linux, concebida para dar ao usuário uma excelente experiência.
-
-Arch Linux é rápido, estável e seguro, e permite uma ótima experiência mesmo em computadores mais antigos. Arch Linux também atende usuários mais experientes. Como tal, geralmente considera-se fora do alcance daqueles que precisam de mais conhecimento técnico ou persistência para usá-lo. AlphaOS nasceu para conjugar as vantagens do Arch com uma usabilidade mais amigável, permitindo aproveitá-lo sem instalação e configuração complicadas.
+AlphaOS é uma distribuição Linux especial de base Arch Linux, concebida para dar ao usuário uma excelente experiência. Por ser um Arch Linux, AlphaOS é rápido, estável e seguro, e permite uma ótima experiência mesmo em computadores mais antigos. Assim, atende também os usuários mais experientes. Como tal, geralmente considera-se fora do alcance daqueles que precisam de mais conhecimento técnico ou persistência para usá-lo. AlphaOS nasceu para conjugar as vantagens do Arch com uma usabilidade mais amigável, permitindo aproveitá-lo sem instalação e configuração complicadas.
 
 ![image](./preview/desktop_en.png)
 
