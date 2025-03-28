@@ -1,4 +1,4 @@
-<h1 align="center">🚀AlphaOS - Base Arch, Linux Pronto-Para_Uso🚀</h1>
+<h1 align="center">🚀AlphaOS - um ArchLinux Pronto-Para_Uso🚀</h1>
 
 <div align="center">
 
