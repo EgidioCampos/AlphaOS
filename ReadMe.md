@@ -1,4 +1,4 @@
-<h1 align="center">🚀AlphaOS - Base Arch, Linux Fora-da-Caixa🚀</h1>
+<h1 align="center">🚀AlphaOS - Base Arch, Linux Pronto-Para_Uso🚀</h1>
 
 <div align="center">
 
@@ -18,7 +18,7 @@ AlphaOS é uma distribuição Linux especial de base Arch Linux, concebida para 
 
 ## <font color=#2f81f7>Por que AlphaOS?</font>
 
-### 📤 <font color=#2f81f7>Fora-da_Caixa</font>
+### 📤 <font color=#2f81f7>Pronto-Para_Uso</font>
 Depois que o sistema estiver instalado, tudo estará pronto, incluindo um ambiente de trabalho bem projetado, repositórios de software (archlinuxcn, arch4edu), auxiliar AUR, método de entrada, tema GRUB, drivers de GPU Nvidia e muito mais.
 
 ### 💻 <font color=#2f81f7>Fácil de Instalar</font>
